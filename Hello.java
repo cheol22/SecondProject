@@ -4,9 +4,9 @@ public static void main(String[] args){
 
 System.out.println("Hello Git!");
 System.out.println("add data");
-System.out.println("add sentence");
-
-
+System.out.println("that's DVCS");
+System.out.println("2002 BitKeeper DVCS");
 }
 
 }
+
