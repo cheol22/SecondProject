@@ -1,3 +1,6 @@
+//For command line git tutorial
+//usr/bin/bash: q: command not found
+
 public class Hello{
 
 public static void main(String[] args){
