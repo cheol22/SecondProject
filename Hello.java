@@ -1,5 +1,5 @@
 //For command line git tutorial
-//usr/bin/bash: q: command not found
+//Local repository modification
 //GitHub modification
 
 public class Hello{
